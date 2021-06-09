@@ -21,7 +21,7 @@ dependencies:
     sdk: flutter
   stack_trace: ^1.9.3
   firebase_core: ^0.7.0
-  firebase_core_platform_interface: ^2.0.0
+  firebase_core_platform_interface: ^3.0.1
   firebase_crashlytics_platform_interface: ^1.1.1
 dev_dependencies:
   pedantic: ^1.8.0
